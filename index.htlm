@@ -1,0 +1,17 @@
+
+<h1>Hello, World!</h1>
+<!DOCTYPE html><html>
+  <head>
+    <title>Whale of a Greeting</title>
+    <meta charset="utf-8">
+    <!-- Add something here to fix trademark -->
+  </head>
+  <body>
+    <h1>Mrunal Kulkarni SMU ID:47516499</h1>
+    <a href="about.html">About this project</a>
+    <p>DevOps LAB-1</p>
+    <a href="https://p-cdn-bucket-7oegqjpvm7id.s3.amazonaws.com/property/photo/522831f1ed20dfa71a19169be94d98d6_l.jpg">
+    <img src="images/Ocean.jpg" alt="I love Ocean">
+    </a>
+  </body>
+</html>
